@@ -451,6 +451,18 @@ button:focus {
   background-image: var(--section-background-color) !important;
 }
 
+.experience-section {
+  position: relative !important;
+  padding-top: 150px !important;
+  padding-bottom: 30px !important;
+  padding-right: 30px !important;
+}
+.experiencehead {
+  height:auto;
+  position: relative;
+  padding-bottom: 80px;
+}
+
 .project-card {
   padding-top: 50px !important;
   padding-bottom: 50px !important;

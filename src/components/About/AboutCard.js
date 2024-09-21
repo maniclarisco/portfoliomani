@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">MANI KANDAN </span>
-            from <span className="purple"> Tami nadu, India.</span>
+            from <span className="purple"> Tamil nadu, India.</span>
             <br />
             I am currently employed as a full stack blockchain developer at Clarisco solutions.
             <br />
